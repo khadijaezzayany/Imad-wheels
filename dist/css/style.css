@@ -54,3 +54,28 @@
     text-align: center;
     border: 2px solid #FFC513;
     padding: 1% 4%; }
+
+.sectionwhells {
+  display: flex; }
+  .sectionwhells__tires {
+    background-color: #C6C5C5; }
+    .sectionwhells__tires img {
+      float: left;
+      height: 60%;
+      margin-top: 18%; }
+    .sectionwhells__tires h1 {
+      margin-top: 25%; }
+    .sectionwhells__tires p {
+      font-size: 25px; }
+  .sectionwhells__wheels {
+    background-color: #F7F7F7; }
+    .sectionwhells__wheels img {
+      float: right;
+      height: 50%;
+      margin-top: 18%; }
+    .sectionwhells__wheels h1 {
+      margin-top: 25%;
+      padding-left: 5%; }
+    .sectionwhells__wheels p {
+      font-size: 25px;
+      padding-left: 5%; }

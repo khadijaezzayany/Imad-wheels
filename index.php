@@ -41,6 +41,7 @@
 
         <div class="sectionwhells__tires">
             <img src="dist/img/tires.png" alt="">
+            <h1>Tires</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis velit esse reiciendis quisquam
                 dolores officiis quibusdam pariatur dolor earum est, temporibus voluptate laborum alias at. Odio,
                 accusamus. Amet, debitis ex?</p>
@@ -48,6 +49,7 @@
 
         <div class="sectionwhells__wheels">
             <img src="dist/img/wheel.png" alt="">
+            <h1>Wheels</h1>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et error officiis, doloribus explicabo eum sunt
                 alias est esse dolores cum modi eaque magnam ipsam, quidem rem quasi assumenda consequuntur! Quidem.</p>
         </div>

@@ -1,0 +1,37 @@
+.sectionwhells{
+    display: flex;
+    
+    &__tires{
+            background-color: $tires;
+            img{
+                float: left;
+                // margin-left: -20%;
+                height: 60%;
+                margin-top: 18%;
+
+            }
+            h1{
+                margin-top: 25%;
+            }
+            p{
+                font-size: 25px;
+            }
+    }
+    &__wheels{
+        background-color: $gray;
+        img{
+            float: right;
+            height: 50%;
+            margin-top: 18%;
+        }
+        h1{
+            margin-top: 25%;
+            padding-left: 5%;
+
+        }
+        p{
+            font-size: 25px;
+            padding-left: 5%;
+        }
+}
+}
