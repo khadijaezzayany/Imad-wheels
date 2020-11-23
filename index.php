@@ -57,6 +57,7 @@
     <div class="about">
         <div class="about__under">
             <h1>ABOUT US</h1>
+            <hr>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus rerum minima atque sint quas ipsa
                 tenetur aliquid quaerat placeat culpa dolores asperiores optio amet doloremque perspiciatis perferendis,
                 labore corrupti ut?</p>

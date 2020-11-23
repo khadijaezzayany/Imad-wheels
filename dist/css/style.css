@@ -55,13 +55,71 @@
     border: 2px solid #FFC513;
     padding: 1% 4%; }
 
+.about {
+  background-color: #F7F7F7;
+  width: 80%;
+  margin: 6% auto; }
+  .about__under {
+    padding: 5% 2% 10% 5%;
+    position: relative; }
+    .about__under img {
+      position: absolute;
+      top: 18%;
+      height: 65vh;
+      width: 55%;
+      left: 49%; }
+    .about__under h1 {
+      font-size: 50px;
+      position: relative;
+      margin-bottom: 0px; }
+    .about__under h1:before {
+      position: absolute;
+      content: "";
+      width: 0.3%;
+      height: 3px;
+      left: 10.5%;
+      bottom: -20%;
+      bottom: 43Opx;
+      background: #FFC513; }
+    .about__under h1:after {
+      position: absolute;
+      content: "";
+      width: 0.5%;
+      height: 3px;
+      left: 11.5%;
+      bottom: -20%;
+      bottom: 43Opx;
+      background: #FFC513; }
+    .about__under hr {
+      height: 3px;
+      width: 7%;
+      height: 3px;
+      left: 2.5%;
+      bottom: -20%;
+      margin-left: 2.5%;
+      border: none;
+      bottom: 43Opx;
+      background: #FFC513; }
+    .about__under p {
+      width: 40%;
+      font-size: 25px;
+      line-height: 40px;
+      margin-bottom: 5%; }
+    .about__under a {
+      text-decoration: none;
+      border: 2px solid #FFC513;
+      padding: 1.5% 5%;
+      color: black;
+      font-size: 20px;
+      font-weight: bold; }
+
 .sectionwhells {
   display: flex; }
   .sectionwhells__tires {
     background-color: #C6C5C5; }
     .sectionwhells__tires img {
       float: left;
-      height: 60%;
+      height: 55%;
       margin-top: 18%; }
     .sectionwhells__tires h1 {
       margin-top: 25%; }
@@ -71,7 +129,7 @@
     background-color: #F7F7F7; }
     .sectionwhells__wheels img {
       float: right;
-      height: 50%;
+      height: 45%;
       margin-top: 18%; }
     .sectionwhells__wheels h1 {
       margin-top: 25%;
