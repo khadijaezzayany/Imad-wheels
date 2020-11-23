@@ -25,12 +25,12 @@
     </div>
     <div class="header">
         <div class="header__nav">
-            <p class="header__nav--logo"> Imad <span>Whells</span></p>
+            <h1 class="header__nav--logo"> Imad <span>Whells</span></h1>
             <ul>
-                <li>HOME</li>
-                <li>ABOUT US</li>
-                <li>SERVICES</li>
-                <li>CONTACTS</li>
+                <li><a href="">HOME</a></li>
+                <li> <a href="">ABOUT US</a></li>
+                <li><a href="">SERVICES</a></li>
+                <li><a href="">CONTACTS</a></li>
             </ul>
             <h1 class="header__h1"> </h1>
             <a href="">CONTACTS</a>
