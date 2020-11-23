@@ -1,0 +1,77 @@
+.countainerservice{
+    text-align: center;
+    background-color: $gray;
+    margin-top: 15%;
+
+    h1{
+        font-size: 50px;  
+        position: relative; 
+        margin-bottom: 0px;
+        padding-top: 3%;
+       }
+    
+       h1:before{
+            position: absolute;
+            content: "";
+            width: 0.3%;
+            height: 4px;
+            right: 47.5%;
+            bottom: -11%;
+            bottom: 43Opx;
+            background: #FFC513;
+       }
+       h1:after{
+            position: absolute;
+            content: "";
+            width: 0.5%;
+            height: 4px;
+            right: 46.5%;
+            bottom: -11%;
+            bottom: 43Opx;
+            background: #FFC513;
+       }
+       hr{
+           
+           height: 3px;
+           width: 7%;
+           height: 4px;
+           left: 2.5%;
+           bottom: -20%;
+           margin-right: 48.5%;
+           border: none;
+           bottom: 43Opx;
+           background: $yellow;
+
+       }
+    .service{
+        display: flex;
+        &__cart1,
+        &__cart2,
+        &__cart3{
+            text-align: center;
+            /* justify-content: center; */
+            /* display: flex; */
+            /* flex-direction: column; */
+            width: 50%;
+            background-color: white;
+            p{
+                font-size: 25px;
+            }
+        }
+        // text-align: center;
+        // margin: auto; justify-content: center;
+        // padding-top: 2%;
+//         &__cart1{
+//             text-align: center;
+//             height: 100%;
+//             width: 50%;
+//             background-color: white;
+//             img{
+//                 width:  60%;
+//             }
+//             p{
+//                 width: 50%;
+//             }
+// }
+    }
+}

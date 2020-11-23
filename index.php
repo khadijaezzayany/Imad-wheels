@@ -65,24 +65,34 @@
             <img src="dist/img/aboutdes.png" alt="">
         </div>
     </div>
-    <div class="service">
-        <div class="service__cart1">
-            <img src="dist/img/service1" alt="">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, praesentium maxime nobis laborum molestiae,
-                asperiores, in vitae voluptatibus quia doloremque expedita reiciendis sit itaque dolore. Ducimus odit
-                sapiente optio ad!</p>
-        </div>
-        <div class="service__cart2">
-            <img src="dist/img/service2" alt="">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, praesentium maxime nobis laborum molestiae,
-                asperiores, in vitae voluptatibus quia doloremque expedita reiciendis sit itaque dolore. Ducimus odit
-                sapiente optio ad!</p>
-        </div>
-        <div class="service__cart3">
-            <img src="dist/img/service3" alt="">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, praesentium maxime nobis laborum molestiae,
-                asperiores, in vitae voluptatibus quia doloremque expedita reiciendis sit itaque dolore. Ducimus odit
-                sapiente optio ad!</p>
+    <div class="countainerservice">
+        <h1>SERVICES</h1>
+        <hr>
+        <div class="service">
+            <div class="service__cart1">
+                <img src="dist/img/service1.png" alt="">
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, praesentium maxime nobis laborum
+                    molestiae,
+                    asperiores, in vitae voluptatibus quia doloremque expedita reiciendis sit itaque dolore. Ducimus
+                    odit
+                    sapiente optio ad!</p>
+            </div>
+            <div class="service__cart2">
+                <img src="dist/img/service2.png" alt="">
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, praesentium maxime nobis laborum
+                    molestiae,
+                    asperiores, in vitae voluptatibus quia doloremque expedita reiciendis sit itaque dolore. Ducimus
+                    odit
+                    sapiente optio ad!</p>
+            </div>
+            <div class="service__cart3">
+                <img src="dist/img/service3.png" alt="">
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, praesentium maxime nobis laborum
+                    molestiae,
+                    asperiores, in vitae voluptatibus quia doloremque expedita reiciendis sit itaque dolore. Ducimus
+                    odit
+                    sapiente optio ad!</p>
+            </div>
         </div>
     </div>
 

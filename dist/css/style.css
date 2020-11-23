@@ -76,7 +76,7 @@
       position: absolute;
       content: "";
       width: 0.3%;
-      height: 3px;
+      height: 4px;
       left: 10.5%;
       bottom: -20%;
       bottom: 43Opx;
@@ -85,7 +85,7 @@
       position: absolute;
       content: "";
       width: 0.5%;
-      height: 3px;
+      height: 4px;
       left: 11.5%;
       bottom: -20%;
       bottom: 43Opx;
@@ -93,7 +93,7 @@
     .about__under hr {
       height: 3px;
       width: 7%;
-      height: 3px;
+      height: 4px;
       left: 2.5%;
       bottom: -20%;
       margin-left: 2.5%;
@@ -112,6 +112,55 @@
       color: black;
       font-size: 20px;
       font-weight: bold; }
+
+.countainerservice {
+  text-align: center;
+  background-color: #F7F7F7;
+  margin-top: 15%; }
+  .countainerservice h1 {
+    font-size: 50px;
+    position: relative;
+    margin-bottom: 0px;
+    padding-top: 3%; }
+  .countainerservice h1:before {
+    position: absolute;
+    content: "";
+    width: 0.3%;
+    height: 4px;
+    right: 47.5%;
+    bottom: -11%;
+    bottom: 43Opx;
+    background: #FFC513; }
+  .countainerservice h1:after {
+    position: absolute;
+    content: "";
+    width: 0.5%;
+    height: 4px;
+    right: 46.5%;
+    bottom: -11%;
+    bottom: 43Opx;
+    background: #FFC513; }
+  .countainerservice hr {
+    height: 3px;
+    width: 7%;
+    height: 4px;
+    left: 2.5%;
+    bottom: -20%;
+    margin-right: 48.5%;
+    border: none;
+    bottom: 43Opx;
+    background: #FFC513; }
+  .countainerservice .service {
+    display: flex; }
+    .countainerservice .service__cart1, .countainerservice .service__cart2, .countainerservice .service__cart3 {
+      text-align: center;
+      /* justify-content: center; */
+      /* display: flex; */
+      /* flex-direction: column; */
+      width: 50%;
+      background-color: white; }
+      .countainerservice .service__cart1 p, .countainerservice .service__cart2 p, .countainerservice .service__cart3 p {
+        font-size: 25px; }
 
 .sectionwhells {
   display: flex; }
