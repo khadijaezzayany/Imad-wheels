@@ -4,7 +4,7 @@
   "description": "The customer's project wants to publicize the services provided by his contractor, which is changing tires, wheels for all kinds of transportation, in addition to a service",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w dist/scss/style.scss -o dist/css",
+    "sass": "node-sass -w dist/scss/style.scss -o dist/css/",
     "concat": "concat -o dist/css/concat.css  dist/css/import.css",
     "prefix": "postcss dist/css/concat.css --use autoprefixer  --map=false -o dist/css/prefix.css",
     "compress": "node-sass dist/css/prefix.css dist/css/style.css  --output-style compressed",

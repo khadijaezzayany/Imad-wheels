@@ -1,0 +1,15 @@
+.heronav {
+  background-color: #525151;
+  height: 10%; }
+  .heronav nav ul {
+    list-style: none;
+    padding: 2%; }
+    .heronav nav ul li {
+      display: inline; }
+    .heronav nav ul a {
+      text-decoration: none;
+      color: white;
+      padding-left: 13%; }
+      .heronav nav ul a .fa {
+        font-size: 25px;
+        padding-right: 10px; }

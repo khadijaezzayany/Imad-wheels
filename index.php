@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <title>Document</title>
 </head>
 
@@ -11,9 +14,12 @@
     <div class="heronav">
         <nav>
             <ul>
-                <li>Monday-Saturday 7:00AM - 6:00PM</li>
-                <li>2605 Hill Road, Woodbridge, VA 22192</li>
-                <li>06 -99 44 95 57</li>
+                <li> <a href=""><i class="fa fa-clock-o" aria-hidden="true"></i>
+                        Monday-Saturday 7:00AM - 6:00PM</a> </li>
+                <li> <a href=""><i class="fa fa-map-marker" aria-hidden="true"></i>
+                        2605 Hill Road, Woodbridge, VA 22192</a> </li>
+                <li> <a href=""><i class="fa fa-phone" aria-hidden="true"></i>
+                        06 -99 44 95 57</a> </li>
             </ul>
         </nav>
     </div>
@@ -94,10 +100,12 @@
     <div class="footer">
         <h1>Contact Info</h1>
         <ul>
-            <li>2605 Hill Road, Woodbridge, VA 22192</li>
-            <li>06 -99 44 95 57</li>
-            <li>officeone@youreemail.com</li>
-            <li>
+            <li><i class="fa fa-map-marker" aria-hidden="true"></i>2605 Hill Road, Woodbridge, VA 22192</li>
+            <li><i class="fa fa-phone" aria-hidden="true"></i>06 -99 44 95 57</li>
+            <li><i class="fa fa-envelope" aria-hidden="true"></i>
+                officeone@youreemail.com</li>
+            <li><i class="fa fa-clock-o" aria-hidden="true"></i>
+
                 <p> Monday- Fri:7:00AM - 6:00PM <br>
                     Sturday: 9:00 AM - 5:00 PM <br>
                     Sunday:Closed
