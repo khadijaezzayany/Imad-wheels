@@ -3,4 +3,23 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: -17px;
+    height: 100vh;
+    text-align: center;
+    &__h1{
+        color: white;
+        text-align: center;
+        margin-top: 12%;
+        font-size: 45px;
+        margin-bottom: 5%;
+    }
+    #butcont{
+    
+            text-decoration: none;
+            color: white;
+            text-align: center;
+            border: 2px solid $yallow;
+            padding: 1% 4% ;
+
+        
+    }
 }

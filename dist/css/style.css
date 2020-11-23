@@ -30,7 +30,7 @@
   color: white;
   display: inline-block;
   /* margin-top: 0%; */
-  padding-right: 30%;
+  padding-right: 35%;
   padding-left: 6%; }
   .header__nav--logo span {
     color: #FFC513; }
@@ -39,4 +39,18 @@
   background-image: url(../img/header.png);
   background-repeat: no-repeat;
   background-size: cover;
-  margin-top: -17px; }
+  margin-top: -17px;
+  height: 100vh;
+  text-align: center; }
+  .header__h1 {
+    color: white;
+    text-align: center;
+    margin-top: 12%;
+    font-size: 45px;
+    margin-bottom: 5%; }
+  .header #butcont {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    border: 2px solid #FFC513;
+    padding: 1% 4%; }

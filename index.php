@@ -32,8 +32,8 @@
                 <li><a href="">SERVICES</a></li>
                 <li><a href="">CONTACTS</a></li>
             </ul>
-            <h1 class="header__h1"> </h1>
-            <a href="">CONTACTS</a>
+            <h1 class="header__h1"> BECAUSE SO MUCH IS <br>RIDING YOUR TIRES</h1>
+            <a href="" id="butcont">CONTACTS</a>
         </div>
     </div>
 
