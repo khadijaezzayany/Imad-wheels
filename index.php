@@ -112,12 +112,19 @@
 
     </div>
     <div class="review">
-        <h1>Customers review</h1>
-        <img src="dist/img/star.png" alt="">
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae delectus porro omnis temporibus
-            assumenda! Fugit praesentium nostrum quo. Hic voluptas nulla corrupti voluptates eveniet aperiam, beatae
-            dicta facilis minus culpa?</p>
-        <p> <span> Hassan Barada,</span>Building contractor</p>
+        <div class="review__left">
+            <img src="dist/img/custmor1.png" alt="">
+            <div class="review__left--right">
+                <h1>Customers review</h1>
+                <img src="dist/img/star.png" alt="">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae delectus porro omnis temporibus
+                    assumenda! Fugit praesentium nostrum quo. Hic voluptas nulla corrupti voluptates eveniet aperiam,
+                    beatae
+                    dicta facilis minus culpa?</p>
+                <p> <span> Hassan Barada,</span>Building contractor</p>
+                <h2>1/5</h2>
+            </div>
+        </div>
     </div>
 
     <div class="footer">

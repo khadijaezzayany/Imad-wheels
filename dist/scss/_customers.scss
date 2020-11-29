@@ -1,0 +1,47 @@
+.review{
+    // background-image: url(../img/custmor1.png);
+    // background-repeat: no-repeat;
+    // background-size: contain;
+    margin-top: 50px;
+    &__left{
+        &--right{
+           
+            display: inline-block;
+            margin-left: -104px;
+            background-color: white;
+            width: 50vw;
+            position: absolute;
+            margin-bottom: -31%;
+            padding-top: 8%;
+            padding-bottom: 4%;
+            margin-top: 5%;
+            padding-left: 150px;    
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            
+            h1{
+                font-size: 40px;
+                margin-bottom: -16px;
+            }
+            img{
+                width: 160px;
+                /* margin: auto; */
+                margin-bottom: -40px;
+            }
+            p{
+                line-height: 35px;
+                /* width: max-content; */
+                font-size: 25px;
+                width: 50%;
+            }
+            span{
+                color: $yellow;
+            }
+            h2{
+                color: $tires;    
+                padding-left: 400px;
+                font-size: 60px;
+            }
+        }
+    }
+    
+}

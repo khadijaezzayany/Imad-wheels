@@ -40,7 +40,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: -17px;
-  height: 80vh;
+  height: 90vh;
   text-align: center; }
   .header__h1 {
     color: white;
@@ -116,7 +116,8 @@
 .countainerservice {
   text-align: center;
   background-color: #F7F7F7;
-  margin-top: 15%; }
+  margin-top: 15%;
+  margin-bottom: 50px; }
   .countainerservice h1 {
     font-size: 50px;
     position: relative;
@@ -169,7 +170,8 @@
   justify-content: center; }
   .experience p {
     display: inline-block;
-    font-size: 30px; }
+    font-size: 30px;
+    font-weight: 600; }
   .experience h1 {
     display: inline-block;
     font-size: 70px; }
@@ -203,3 +205,36 @@
     .sectionwhells__wheels p {
       font-size: 25px;
       padding-left: 5%; }
+
+.review {
+  margin-top: 50px; }
+  .review__left--right {
+    display: inline-block;
+    margin-left: -104px;
+    background-color: white;
+    width: 50vw;
+    position: absolute;
+    margin-bottom: -31%;
+    padding-top: 8%;
+    padding-bottom: 4%;
+    margin-top: 5%;
+    padding-left: 150px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); }
+    .review__left--right h1 {
+      font-size: 40px;
+      margin-bottom: -16px; }
+    .review__left--right img {
+      width: 160px;
+      /* margin: auto; */
+      margin-bottom: -40px; }
+    .review__left--right p {
+      line-height: 35px;
+      /* width: max-content; */
+      font-size: 25px;
+      width: 50%; }
+    .review__left--right span {
+      color: #FFC513; }
+    .review__left--right h2 {
+      color: #C6C5C5;
+      padding-left: 400px;
+      font-size: 60px; }
