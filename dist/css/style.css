@@ -163,6 +163,22 @@
         /* margin-left: 22%; */
         line-height: 45px; }
 
+.experience {
+  display: flex;
+  text-align: center;
+  justify-content: center; }
+  .experience p {
+    display: inline-block;
+    font-size: 30px; }
+  .experience h1 {
+    display: inline-block;
+    font-size: 70px; }
+  .experience span {
+    font-size: 110px;
+    color: #FFC513; }
+  .experience__1, .experience__2, .experience__3 {
+    margin: 20px auto; }
+
 .sectionwhells {
   display: flex; }
   .sectionwhells__tires {

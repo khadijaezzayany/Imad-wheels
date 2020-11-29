@@ -1,0 +1,22 @@
+.experience{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    p{
+        display: inline-block;
+        font-size: 30px;
+    }
+    h1{
+        display: inline-block;
+        font-size: 70px;
+    }
+    span{
+        font-size: 110px;
+        color: $yellow;
+    }
+    &__1,
+    &__2,
+    &__3{
+        margin: 20px auto;
+    }
+}

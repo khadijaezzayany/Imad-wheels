@@ -97,9 +97,19 @@
     </div>
 
     <div class="experience">
-        <p>28 | Year <br> of Experience</p>
-        <p>3.4k | Vehicle <br> Repaired</p>
-        <p>100% | Satisfied <br> Customers</p>
+        <div class="experience__1">
+            <h1>28</h1> <span>|</span>
+            <p> Year <br> of Experience</p>
+        </div>
+        <div class="experience__2">
+            <h1>3.4k</h1> <span>|</span>
+            <p>Vehicle <br> Repaired</p>
+        </div>
+        <div class="experience__3">
+            <h1>100%</h1> <span>|</span>
+            <p>Satisfied <br> Customers</p>
+        </div>
+
     </div>
     <div class="review">
         <h1>Customers review</h1>
