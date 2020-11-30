@@ -128,22 +128,25 @@
     </div>
 
     <div class="footer">
-        <h1>Contact Info</h1>
-        <ul>
-            <li><i class="fa fa-map-marker" aria-hidden="true"></i>2605 Hill Road, Woodbridge, VA 22192</li>
-            <li><i class="fa fa-phone" aria-hidden="true"></i>06 -99 44 95 57</li>
-            <li><i class="fa fa-envelope" aria-hidden="true"></i>
-                officeone@youreemail.com</li>
-            <li><i class="fa fa-clock-o" aria-hidden="true"></i>
+        <div class="footer__carte">
+            <h1>Contact Info</h1>
+            <ul>
+                <li><i class="fa fa-map-marker" aria-hidden="true"></i>2605 Hill Road, Woodbridge, VA 22192</li>
+                <li><i class="fa fa-phone" aria-hidden="true"></i>06 -99 44 95 57</li>
+                <li><i class="fa fa-envelope" aria-hidden="true"></i>
+                    officeone@youreemail.com</li>
+                <li><i class="fa fa-clock-o" aria-hidden="true"> </i>
 
-                <p> Monday- Fri:7:00AM - 6:00PM <br>
+                    Monday- Fri:7:00AM - 6:00PM <br>
                     Sturday: 9:00 AM - 5:00 PM <br>
                     Sunday:Closed
-                </p>
 
-            </li>
+                </li>
 
-        </ul>
+            </ul>
+            <p></p>
+        </div>
+
     </div>
 
 </body>
